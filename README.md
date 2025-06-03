@@ -12,6 +12,10 @@ We group projects into random categories that have absolutely nothing to do with
 - [RealTime.Blue](https://realtime.blue) - Free Bluesky analytics & tracking
 
 
+## ✋ Can Devs Do Something
+- [CanDevsDoSomething](https://candevsdosomething.com) - Community platform for builders/makers
+  
+
 ## 🦄 Unicorn Sightings
 - [ShowUpInAI](https://showupinai.com) - Your website isn’t showing up in ChatGPT? Fix it.
 
